@@ -1,6 +1,6 @@
-# RISC-V Course
+# 我们的故事
 
-[我们的故事](docs/First_Index.md)
+[点击这里开始~](docs/First_Index.md)
 
 
 
